@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".MainActivity">
+    <item
+        android:id="@+id/love"
+        android:icon="@drawable/ic_baseline_favoriteborder"
+        app:showAsAction="always"
+        android:title="@string/favo" />
+    <item
+        android:id="@+id/setting"
+        android:icon="@drawable/ic_baseline_arrow"
+        app:showAsAction="ifRoom"
+        android:title="@string/settinglanguage" />
+</menu>

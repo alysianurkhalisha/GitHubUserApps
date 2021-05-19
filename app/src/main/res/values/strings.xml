@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="search">Find Here</string>
+    <string name="setting">Setting</string>
+    <string name="Photo">Photo</string>
+    <string name="username">Username</string>
+    <string name="name">Name</string>]
+    <string name="loc">%s</string>
+    <string name="rep"> Repository : %s</string>
+    <string name="comp">%s</string>
+    <string name="followers">Followers : %s</string>
+    <string name="following">Following : %s</string>
+    <string name="fragfollowers">Followers</string>
+    <string name="fragfollowing">Following</string>
+    <string name="settinglanguage">Change Language</string>
+    <string name="reminder">reminder</string>
+    <string name="favo">favorite</string>
+</resources>
